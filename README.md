@@ -13,13 +13,13 @@ This project implements and compares several machine learning models to predict 
 - **Pandas**: For data manipulation and preprocessing.
 - **Scikit-Learn**: For implementing machine learning models and evaluation metrics.
 - **NumPy**: For numerical operations.
-- **Matplotlib/Seaborn** (optional, if you used them for visualization): For visualizing data distributions and model performance.
 - **Imbalanced-learn**: For handling imbalanced datasets using techniques like SMOTE.
 
 ## Project Structure
 - `weather_data.csv`: The dataset used for training and testing models.
 - `models.py`: Script containing the implementation of all machine learning models.
 - `evaluation.py`: Script for evaluating and comparing the performance of models.
+- `requirements.txt`: File for installing necessary libraries.
 - `README.md`: This file.
 
 ## How to Run
