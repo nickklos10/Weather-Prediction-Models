@@ -15,7 +15,7 @@ def warn(*args, **kwargs):
 warnings.warn = warn
 
 # Load and preprocess the data
-filepath = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillUp/labs/ML-FinalAssignment/Weather_Data.csv"
+filepath = "Weather_Data.csv" 
 df = pd.read_csv(filepath)
 
 df_sydney_processed = pd.get_dummies(data=df, columns=['RainToday', 'WindGustDir', 'WindDir9am', 'WindDir3pm'])
