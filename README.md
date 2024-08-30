@@ -1,6 +1,5 @@
 # Weather-Prediction-Models
 
-## Description
 This project implements and compares several machine learning models to predict whether it will rain tomorrow based on historical weather data. The models used include Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, and Support Vector Machine (SVM). The project evaluates each model's performance using various metrics such as Accuracy, Jaccard Index, F1 Score, and Log Loss.
 
 ## Features
