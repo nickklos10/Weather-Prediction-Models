@@ -27,11 +27,12 @@ This project implements and compares several machine learning models to predict 
    ```
    git clone https://github.com/yourusername/Weather-Prediction-Models.git
    cd Weather-Prediction-Models
+   ```
 
 2. **Install the required libraries:**
-```
+   ```
    pip install -r requirements.txt
-```
+   ```
 3. **Run the model training and evaluation:**
    ```
    python models.py
