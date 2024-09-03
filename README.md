@@ -36,7 +36,6 @@ This project implements and compares several machine learning models to predict 
 3. **Run the model training and evaluation:**
    ```
    python models.py
-   python evaluation.py
    ```
 
 ## Results
